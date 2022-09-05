@@ -1,7 +1,7 @@
 [project]
-name = ""
-version = ""
-description = ""
+name = "pywindnd"
+version = "1.0.0"
+description = "windows drag icon & drop to load absolute file path"
 authors = [
     {name = "Ayden", email = "2361018131@qq.com"},
 ]

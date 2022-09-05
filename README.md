@@ -1,6 +1,6 @@
 # pywindnd
 
-A widget of tkinter in windows, can drop to load absolute file path.
+A widget of tkinter, windows drag icon & drop to load absolute file path.
 
 ## Installation
 
