@@ -5,7 +5,7 @@ description = "windows drag icon & drop to load absolute file path"
 authors = [
     {name = "Ayden", email = "2361018131@qq.com"},
 ]
-readme = "README.rst"
+readme = "README.md"
 dependencies = []
 requires-python = ">=3.8"
 license = {text = "MIT"}
