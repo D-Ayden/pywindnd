@@ -5,9 +5,18 @@ description = "windows drag icon & drop to load absolute file path"
 authors = [
     {name = "Ayden", email = "2361018131@qq.com"},
 ]
+readme = "README.rst"
 dependencies = []
 requires-python = ">=3.8"
 license = {text = "MIT"}
+classifiers = [
+    Programming Language :: Python
+]
+
+[project.urls]
+"Homepage" = https://pypi.org/project/pywindnd/
+"Source Code" = https://github.com/D-Ayden/pywindnd
+
 
 [build-system]
 requires = ["pdm-pep517>=1.0.0"]
