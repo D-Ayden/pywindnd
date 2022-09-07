@@ -14,8 +14,8 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = https://pypi.org/project/pywindnd/
-"Source Code" = https://github.com/D-Ayden/pywindnd
+"Homepage" = "https://pypi.org/project/pywindnd"
+"Source Code" = "https://github.com/D-Ayden/pywindnd"
 
 
 [build-system]
